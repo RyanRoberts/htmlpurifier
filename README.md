@@ -1,2 +1,4 @@
-# htmlpurifier-configs
-My standard configs for HTML Purifier in Craft 3
+# HTMLPurifier Configs for Craft CMS
+
+Some standard configs to prevent clients and content editors from running wild
+in Redactor.
